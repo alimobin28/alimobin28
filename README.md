@@ -31,26 +31,26 @@
 
 - ✅ Mastered **Data Structures & Algorithms (DSA)** in C++
 - ✅ Built a variety of projects in **C++ and Python**
-- 🔰 Beginner in **Competitive Programming**, active on [LeetCode](https://leetcode.com/u/alimobeen1090/)) & [Codeforces]([https://codeforces.com/](https://codeforces.com/profile/alimobeenDesignAlgo))
+- 🔰 Beginner in **Competitive Programming**, active on [LeetCode](https://leetcode.com/alimobeen1090/) & [Codeforces](https://codeforces.com/profile/alimobeenDesignAlgo)
 - 🤖 Curious about the intersection of **AI + real-world problem solving**
+
 ---
 
 ## 💼 Tech Stack
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-**Libraries & Frameworks**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-46B4D9?logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-46B4D9?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -58,6 +58,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alimobin28&show_icons=true&theme=react&count_private=true&hide_title=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimobin28&layout=compact&theme=react" />
 </p>
 
