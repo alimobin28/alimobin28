@@ -31,9 +31,8 @@
 
 - ✅ Mastered **Data Structures & Algorithms (DSA)** in C++
 - ✅ Built a variety of projects in **C++ and Python**
-- 🔰 Beginner in **Competitive Programming**, active on [LeetCode](https://leetcode.com/) & [Codeforces](https://codeforces.com/)
+- 🔰 Beginner in **Competitive Programming**, active on [LeetCode](https://leetcode.com/u/alimobeen1090/)) & [Codeforces]([https://codeforces.com/](https://codeforces.com/profile/alimobeenDesignAlgo))
 - 🤖 Curious about the intersection of **AI + real-world problem solving**
-
 ---
 
 ## 💼 Tech Stack
@@ -58,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliMobin110&show_icons=true&theme=react&count_private=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMobin110&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimobin28&show_icons=true&theme=react&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimobin28&layout=compact&theme=react" />
 </p>
 
 ---
