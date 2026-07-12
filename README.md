@@ -94,21 +94,10 @@ class AliMobin:
 
 ## ⚙️ What I Bring
 
-- **Build AI Systems, Not Just Models** — I enjoy building complete AI applications that combine Machine Learning, Computer Vision, NLP, Retrieval-Augmented Generation (RAG), and modern backend engineering into production-oriented solutions.
-
-- **End-to-End Project Ownership** — Comfortable taking projects from idea to deployment, including data collection, preprocessing, model development, evaluation, backend APIs, databases, frontend integration, and version control.
-
-- **LLM & RAG Engineering** — Experience designing Retrieval-Augmented Generation pipelines using semantic chunking, hybrid retrieval (Dense + BM25), vector databases (ChromaDB), cross-encoder re-ranking, metadata filtering, citation generation, and retrieval evaluation for document-based AI systems.
-
-- **Data-Driven Decision Making** — I benchmark AI tools before adopting them. I've evaluated multiple OCR engines on real-world datasets by comparing inference time, throughput, resource usage, and extraction quality to select the best solution for production.
-
-- **AI-Powered Product Development** — Building intelligent applications that solve practical problems, including document understanding, image captioning, AI-powered expense management, information retrieval, and intelligent assistants.
-
-- **Strong Software Engineering Foundation** — Solid understanding of Data Structures & Algorithms, Object-Oriented Programming, REST API development, SQL databases, Git workflows, and writing modular, maintainable, and scalable code.
-
-- **Research-Driven Learning** — I enjoy reading recent AI research and turning concepts like Hybrid RAG, CRAG, Agentic AI, Multi-Agent Systems, and Local LLMs into working prototypes and real-world applications.
-
-- **Continuous Growth** — Constantly learning modern AI technologies, experimenting with new frameworks, and improving both my engineering skills and system design knowledge through hands-on projects.
+- **Architecture-first RAG** — chunking strategy, hybrid dense+BM25 retrieval, cross-encoder re-ranking, and CRAG-style correction loops, chosen deliberately per use case rather than defaulted to
+- **Benchmarking discipline** — evaluate models/tools on inference time, throughput, and accuracy (e.g. 8+ OCR engines compared on real document sets) before committing to one
+- **Production engineering habits** — structured error handling, edge-case coverage, and REST API design (FastAPI/Flask) around the ML core, not just the model itself
+- **Full-pipeline ownership** — comfortable moving from data preprocessing and model training to backend services and frontend integration on the same project
 
 <br/>
 
@@ -116,14 +105,24 @@ class AliMobin:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alimobin28&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimobin28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alimobin28&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alimobin28&theme=tokyonight&no-frame=true&row=1&column=6" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=alimobin28&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=alimobin28&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alimobin28&layout=compact&theme=radical)
 
 </div>
+
+<!--
+NOTE: the original github-readme-stats.vercel.app (by anuraghazra) has its
+public deployment paused by the maintainer as of 2026 — this is a known,
+widely-reported issue affecting thousands of profiles, not specific to
+this README. Using github-readme-stats-fast.vercel.app, an actively
+maintained community mirror of the same project (same card design,
+same query params, plus its own built-in streak endpoint). If this one
+ever goes down too, the permanent fix is self-hosting your own instance:
+1. Go to https://github.com/anuraghazra/github-readme-stats
+2. Click "Deploy your own instance" -> Deploy with Vercel
+3. Replace the URLs above with your own instance's URL
+-->
 
 <br/>
 
