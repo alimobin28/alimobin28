@@ -31,15 +31,17 @@ I read research papers and implement them. I benchmark before I choose a model o
 ```python
 class AliMobin:
     def __init__(self):
-        self.role     = "AI Engineer"
-        self.stack    = ["RAG", "LLMs", "Computer Vision", "NLP"]
-        self.approach = "papers -> production, not papers -> notebook"
+        self.role = "AI Engineer"
+        self.focus = ["LLMs", "Agentic AI", "RAG", "Information Retrieval", "Voice AI", "Computer Vision"]
+        self.tools = ["Python", "FastAPI", "LangChain", "LangGraph", "PyTorch", "ChromaDB"]
+        self.current = ["OCR Systems", "Voice Agents", "Hybrid RAG", "FastAPI APIs", "NLP", "TREC-COVID IR"]
+        self.mindset = "Build reliable AI systems, not impressive demos."
 
-    def debug(self, system):
-        while system.has_bottleneck():
-            system.benchmark()
-            system.re_architect()
-        return system  # ships, doesn't demo
+    def build(self, system):
+        while not system.production_ready():
+            system.profile(); system.benchmark(); system.evaluate()
+            system.optimize(); system.retrieval(); system.re_architect()
+        return "Shipped "
 ```
 
 <br/>
